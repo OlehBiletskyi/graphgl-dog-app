@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/graphgl-dog-app/static/css/main.6e9cb06c.css",
+    "main.js": "/graphgl-dog-app/static/js/main.c3bed5be.js",
+    "index.html": "/graphgl-dog-app/index.html",
+    "main.6e9cb06c.css.map": "/graphgl-dog-app/static/css/main.6e9cb06c.css.map",
+    "main.c3bed5be.js.map": "/graphgl-dog-app/static/js/main.c3bed5be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e9cb06c.css",
+    "static/js/main.c3bed5be.js"
+  ]
+}
