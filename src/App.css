@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+  margin: 20px;
+}
+.waiting {
+  margin: 20px;
+}
+.container {
+  width: 100%;
+}
+
+
+.dog-container, .download {
+  margin-top: 40px;
+}
+.breed {
+  text-transform: uppercase;
+}
+.button-refetch {
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.dog-image {
+  width: 500px;
+}
+.subbreed{
+
+}
