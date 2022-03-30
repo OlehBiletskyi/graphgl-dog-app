@@ -1,7 +1,6 @@
-import React from 'react';
 import { useGetDogByBreed } from '../../graphql';
 
-function Dog({ dogBreed }) {
+export function Dog({ dogBreed }) {
   const  {loading, error, data, refetch, networkStatus } = useGetDogByBreed(
 {
           variables: {breed: dogBreed},
@@ -22,4 +21,3 @@ function Dog({ dogBreed }) {
     </div>
   )
 }
-export default Dog;
