@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 70%;
+}
+
+
+.title {
+    margin: 20px;
+    font-size: 80px;
+    color: aliceblue;
+}
+.subtitle {
+    font-size: 25px;
+    color: #5c2f11;
+}
+.description {
+    font-style: italic;
+}
+
+
+.waiting {
+    margin: 20px;
+}
+.container {
+    width: 100%;
+}
